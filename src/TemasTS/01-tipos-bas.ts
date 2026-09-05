@@ -14,6 +14,4 @@ console.log("La suma es: "+sum)
 nombre="Pedro";
 console.log(nombre);
 
-
-console.log(nombre);
 console.log("Prueba");
